@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 Love writing blogs.. find all of my blogs [here](https://devangtomar.github.io/Devang-portfolio/)
+- 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://medium.com/@devangtomar123)
 
 - ❤️ Open Source Software
 
 <!-- - 📝 I regularly write articles on [blog](https://medium.com/@devangtomar123) -->
 - 🌨️ Interested in everything Cloud Native
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view)
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view)
 
 <br>
 
