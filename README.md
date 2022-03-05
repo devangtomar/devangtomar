@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devangtomar&label=Profile%20views&color=0e75b6&style=flat" alt="devangtomar" /> </p>
 
-- 🔭 I’m currently working on <a href="https://www.walmart.com/">**Walmart**</a>
+- 🔭 I’m currently working as a **DevOps engineer** at <a href="https://www.walmart.com/">**Walmart**</a>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m learning **Web Development** right now.
 
 - 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://medium.com/@devangtomar123)
 
