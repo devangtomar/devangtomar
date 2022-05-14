@@ -1,5 +1,9 @@
+<p align="center">
+  <img height="500" style="border-radius: 15px;" src="./assets/images/main.jpg" />
+</p>
+<br>
 <h1 align="center">Hi 👋, I'm Devang Tomar</h1>
-<h3 align="center">A Senior Software Engineer from Bangalore, India</h3>
+<h3 align="center">Senior Software Engineer working in Bangalore, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="devang-tomar" /> </p><br>
 
