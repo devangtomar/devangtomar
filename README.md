@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" style="border-radius: 15px;" src="./assets/images/main.jpg" />
+  <img height="300" style="border-radius: 15px;" src="./assets/images/main.jpg" />
 </p>
 <br>
 <h1 align="center">Hi 👋, I'm Devang Tomar</h1>
