@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.walmart.com/">**Walmart**</a>
 
-- 🌱 I’m currently learning **Node JS and Tailwind CSS**
+- 🌱 I’m currently learning **Web Development**
 
 - ❤️ Open Source Software
 
