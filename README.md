@@ -1,7 +1,6 @@
 <p align="center">
-  <img height="300" style="border-radius: 15px;" src="./assets/images/main.jpg" />
+  <img height="400" style="border-radius: 15px;" src="./assets/images/main.jpg" />
 </p>
-<br>
 <h1 align="center">Hi 👋, I'm Devang Tomar</h1>
 <h3 align="center">Senior Software Engineer working in Bangalore, India</h3>
 
