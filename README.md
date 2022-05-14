@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Devang Tomar</h1> -->
 <!-- <h3 align="center">Senior Software Engineer working in Bangalore, India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devang-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="devang-tomar" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devang-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="devang-tomar" /> </p>
 
 - 🔭 I’m currently working on <a href="https://www.walmart.com/">**Walmart**</a>
 
