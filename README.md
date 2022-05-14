@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://devang-tomar.github.io/Devang-portfolio/)
 
-- 📝 I regularly write articles on [blog](https://medium.com/@devangtomar123)
+<!-- - 📝 I regularly write articles on [blog](https://medium.com/@devangtomar123) -->
 
 - 💬 Ask me about **DevOps, Cloud-computing, Scripting**
 
