@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 15px;" src="./assets/images/main.jpg" />
+  <img style="border-radius: 25px;" src="./assets/images/main-copy.jpg" />
 </p>
 <h1 align="center">Hi 👋, I'm Devang Tomar</h1>
 <h3 align="center">Senior Software Engineer working in Bangalore, India</h3>
