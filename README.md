@@ -43,7 +43,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devang-tomar&show_icons=true&locale=en&layout=compact"  alt="devang-tomar"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devang-tomar&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell"  alt="devang-tomar"  /></p>
 
 <br>
 
