@@ -43,15 +43,15 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devang-tomar&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell"  alt="devang-tomar"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devang-tomar&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell&theme=github_dark"  alt="devang-tomar"  /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devang-tomar&show_icons=true&locale=en" alt="devang-tomar"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devang-tomar&show_icons=true&locale=en&theme=github_dark" alt="devang-tomar"  /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devang-tomar&" alt="devang-tomar"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devang-tomar&theme=github_dark" alt="devang-tomar"  /></p>
 
 
 </details>
