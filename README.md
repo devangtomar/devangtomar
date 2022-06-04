@@ -51,7 +51,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Tomar&theme=dark" alt="devang-tomar"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Tomar&theme=dark&dates=DDDDDD&currStreakLabel=268EDD&sideLabels=268EDD" alt="devang-tomar"  /></p>
 
 
 </details>
