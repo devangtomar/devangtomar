@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Devang Tomar</h1> -->
 <!-- <h3 align="center">Senior Software Engineer working in Bangalore, India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devang-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="devang-tomar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devangtomar&label=Profile%20views&color=0e75b6&style=flat" alt="devangtomar" /> </p>
 
 - 🔭 I’m currently working on <a href="https://www.walmart.com/">**Walmart**</a>
 
@@ -13,7 +13,7 @@
 
 - ❤️ Open Source Software
 
-- 👨‍💻 All of my projects are available at [here](https://devang-tomar.github.io/Devang-portfolio/)
+- 👨‍💻 All of my projects are available at [here](https://devangtomar.github.io/Devang-portfolio/)
 
 <!-- - 📝 I regularly write articles on [blog](https://medium.com/@devangtomar123) -->
 - 🌨️ Interested in everything Cloud Native
@@ -25,8 +25,8 @@
 <h3 align="left">Let's connect and chat! Open to anything under the sun.</h3><br>
 <p align="left">
 <a href="https://twitter.com/devangtomar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devangtomar7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devang-tomar-8814aa138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devang-tomar-8814aa138" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8198097/devang-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devang-tomar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devangtomar-8814aa138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devangtomar-8814aa138" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8198097/devangtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devangtomar" height="30" width="40" /></a>
 <a href="https://instagram.com/be_ayushmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_ayushmann" height="30" width="40" /></a>
 <a href="https://medium.com/@devangtomar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devangtomar123" height="30" width="40" /></a>
 </p>
@@ -43,15 +43,15 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devang-tomar&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell&theme=github_dark"  alt="devang-tomar"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangtomar&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell&theme=github_dark"  alt="devangtomar"  /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devang-tomar&show_icons=true&locale=en&theme=github_dark" alt="devang-tomar"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devangtomar&show_icons=true&locale=en&theme=github_dark" alt="devangtomar"  /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Tomar&theme=dark&dates=DDDDDD&currStreakLabel=268EDD&sideLabels=268EDD" alt="devang-tomar"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangtomar&theme=dark&dates=DDDDDD&currStreakLabel=268EDD&sideLabels=268EDD" alt="devangtomar"  /></p>
 
 
 </details>
