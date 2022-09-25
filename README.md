@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- ❤️ Open Source Software
+- 👨‍💻 Love writing blogs.. find all of my blogs [here](https://devangtomar.github.io/Devang-portfolio/)
 
-- 👨‍💻 All of my projects are available at [here](https://devangtomar.github.io/Devang-portfolio/)
+- ❤️ Open Source Software
 
 <!-- - 📝 I regularly write articles on [blog](https://medium.com/@devangtomar123) -->
 - 🌨️ Interested in everything Cloud Native
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view)
 
 <br>
 
@@ -31,7 +31,6 @@
 <a href="https://medium.com/@devangtomar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devangtomar123" height="30" width="40" /></a>
 </p>
 <br>
-
 
 <details>
 
@@ -53,6 +52,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devangtomar&theme=dark&dates=DDDDDD&currStreakLabel=268EDD&sideLabels=268EDD" alt="devangtomar"  /></p>
 
-
 </details>
-
