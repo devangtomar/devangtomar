@@ -26,7 +26,6 @@
 <p align="left">
 <a href="https://twitter.com/devangtomar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devangtomar7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/devangtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devangtomar-8814aa138" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8198097/devangtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devangtomar" height="30" width="40" /></a>
 <a href="https://instagram.com/be_ayushmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_ayushmann" height="30" width="40" /></a>
 <a href="https://devangtomar.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devangtomar123" height="30" width="40" /></a>
 <a href="https://devangtomar.hashnode.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/hashnode.png" alt="@devangtomar123" height="30" width="40" /></a>
