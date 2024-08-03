@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devangtomar&label=Profile%20views&color=0e75b6&style=flat" alt="devangtomar" /> </p>
 
-- 🔭 I’m currently working as a **Software engineer** at <a href="https://www.walmart.com/">**Walmart**</a>
+- 🔭 I’m currently working as a **Software engineer III** at <a href="https://www.walmart.com/">**Walmart**</a>
 
-- 🌱 I’m learning **Web Development** right now.
+- 🌱 I’m currently delving into **Platform Engineering**, **Backend Development**, and sometimes **Web Development**.
 
-- 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://devangtomar.medium.com/)
+- 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://dev.to/devangtomar)
 
 - ❤️ Open Source Software
 
@@ -19,18 +19,18 @@
 
 - 🌨️ Interested in everything Cloud Native
 
-<!-- - 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view) -->
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view)
 
 <br>
 
 <h3 align="left">🔗 Connect with Me on Social Media 🔍</h3><br>
 <p align="left">
-<a href="https://twitter.com/devangtomar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devangtomar7" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/devangtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devangtomar-8814aa138" height="30" width="40" /></a>
-<a href="https://instagram.com/be_ayushmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_ayushmann" height="30" width="40" /></a>
-<a href="https://devangtomar.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devangtomar123" height="30" width="40" /></a>
-<a href="https://devangtomar.hashnode.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/hashnode.png" alt="@devangtomar123" height="30" width="40" /></a>
 <a href="https://dev.to/devangtomar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="@devangtomar123" height="30" width="40" /></a>
+<a href="https://devangtomar.hashnode.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/hashnode.png" alt="@devangtomar123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devangtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devangtomar-8814aa138" height="30" width="40" /></a>
+<!-- <a href="https://devangtomar.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devangtomar123" height="30" width="40" /></a> -->
+<a href="https://twitter.com/devangtomar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devangtomar7" height="30" width="40" /></a>
+<a href="https://instagram.com/be_ayushmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be_ayushmann" height="30" width="40" /></a>
 </p>
 <br>
 
