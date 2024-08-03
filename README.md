@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Software engineer III** at <a href="https://careers.walmart.com/technology">**Walmart**</a>.
 
-- 🌱 I’m currently delving into Platform Engineering and Backend Development.
+- 🌱 I’m currently exploring Platform Engineering and occasionally Backend Development.
 
 - 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://dev.to/devangtomar).
 
