@@ -7,19 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devangtomar&label=Profile%20views&color=0e75b6&style=flat" alt="devangtomar" /> </p>
 
-- 🔭 I’m currently working as a **Software engineer III** at <a href="https://www.walmart.com/">**Walmart**</a>
+- 🔭 I’m currently working as a **Software engineer III** at <a href="https://www.walmart.com/">**Walmart**</a>.
 
 - 🌱 I’m currently delving into Platform Engineering and Backend Development.
 
-- 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://dev.to/devangtomar)
+- 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://dev.to/devangtomar).
 
 <!-- - 📝 I regularly write articles on [blog](https://devangtomar.medium.com/) -->
 
-- 🌨️ Interested in everything Cloud Native
+- 🌨️ Interested in everything Cloud Native.
 
-- ❤️ Love Open Source Software
+- ❤️ Love Open Source Software.
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1IHLiohZ01EeT1DngaOzX1uEdWEdPz8bR/view)
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1IHLiohZ01EeT1DngaOzX1uEdWEdPz8bR/view).
 
 <br>
 
