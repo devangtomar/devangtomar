@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working as a **Software engineer III** at <a href="https://www.walmart.com/">**Walmart**</a>
 
-- 🌱 I’m currently delving into **Platform Engineering**, **Backend Development**, and sometimes **Web Development**.
+- 🌱 I’m currently delving into Platform Engineering and Backend Development.
 
 - 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://dev.to/devangtomar)
-
-- ❤️ Open Source Software
 
 <!-- - 📝 I regularly write articles on [blog](https://devangtomar.medium.com/) -->
 
 - 🌨️ Interested in everything Cloud Native
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1QMVcVgpQN7kr9C4yP6uQtJhwMLf_cqi5/view)
+- ❤️ Love Open Source Software
+
+- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1IHLiohZ01EeT1DngaOzX1uEdWEdPz8bR/view)
 
 <br>
 
