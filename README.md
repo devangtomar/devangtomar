@@ -26,6 +26,7 @@
 <h3 align="left">🔗 Connect with Me on Social Media 🔍</h3><br>
 <p align="left">
 <a href="https://dev.to/devangtomar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="@devangtomar123" height="50" width="80" /></a>
+<a href="https://medium.com/@devangtomar" target="blank"><img align="center" src="https://img.icons8.com/ios/50/medium-monogram--v1.png" alt="@devangtomar123" height="50" width="50" /></a>
 <a href="https://devangtomar.hashnode.dev/" target="blank"><img align="center" src="https://img.icons8.com/color/480/000000/hashnode.png" alt="@devangtomar123" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/devangtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devangtomar-8814aa138" height="30" width="40" /></a>
 <!-- <a href="https://devangtomar.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devangtomar123" height="30" width="40" /></a> -->
