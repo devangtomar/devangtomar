@@ -19,8 +19,6 @@
 
 - ❤️ Love Open Source Software.
 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1IHLiohZ01EeT1DngaOzX1uEdWEdPz8bR/view).
-
 <br>
 
 <h3 align="left">🔗 Connect with Me on Social Media 🔍</h3><br>
