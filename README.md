@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devangtomar&label=Profile%20views&color=0e75b6&style=flat" alt="devangtomar" /> </p>
 
-- 🔭 I’m currently working as a **Senior Software engineer** at <a href="https://www.sap.com/india/about/labs-india.html">**SAP Labs**</a>.
+- 🔭 I’m currently working as a **Senior Software engineer** at <a href="https://www.apple.com/in/?cid-oas-in-domains-apple.in/">**Apple**</a>.
 
-- 🌱 I’m currently exploring Platform Engineering and occasionally Backend Development.
+- 🌱 I’m currently exploring AI Platform Engineering and occasionally Backend Development.
 
 - 👨‍💻 Love writing blogs.. find all of my [**blogs here**](https://dev.to/devangtomar).
 
